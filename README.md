@@ -7,6 +7,5 @@
 - Singleton
 - Memento
 - Strategy
-- Facade
 - Observer
 - Builder
