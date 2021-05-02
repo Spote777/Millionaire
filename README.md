@@ -8,4 +8,3 @@
 - Memento
 - Strategy
 - Observer
-- Builder
